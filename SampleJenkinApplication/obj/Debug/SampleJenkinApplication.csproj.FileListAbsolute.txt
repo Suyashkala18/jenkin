@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\bin\Debug\SampleJenkinApplication.exe.config
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\bin\Debug\SampleJenkinApplication.exe
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\bin\Debug\SampleJenkinApplication.pdb
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\obj\Debug\SampleJenkinApplication.csprojAssemblyReference.cache
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\obj\Debug\SampleJenkinApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\obj\Debug\SampleJenkinApplication.exe
+C:\Users\user\Desktop\My Trainig Work\Jenkins\SampleJenkinApplicationSolution\SampleJenkinApplication\obj\Debug\SampleJenkinApplication.pdb
